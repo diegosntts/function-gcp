@@ -1,0 +1,6 @@
+function.zip
+.terraform
+keys.json
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
